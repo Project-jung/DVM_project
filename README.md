@@ -7,23 +7,23 @@
 
 목차
 
-0. [Home](https://github.com/daahunii/DVM_project/wiki)
+0. [Home](https://github.com/Project-jung/DVM_project/wiki)
 
 1. 서비스
 
-> * [서비스 상세](https://github.com/daahunii/DVM_project/wiki/서비스-상세)
-> * [사용 가이드](https://github.com/daahunii/DVM_project/wiki/사용-가이드)
-> * [기술 상세](https://github.com/daahunii/DVM_project/wiki/기술-상세)
+> * [서비스 상세](https://github.com/Project-jung/DVM_project/wiki/서비스-상세)
+> * [사용 가이드](https://github.com/Project-jung/DVM_project/wiki/사용-가이드)
+> * [기술 상세](https://github.com/Project-jung/DVM_project/wiki/기술-상세)
 
 2. 디자인
 
-> * [BI](https://github.com/daahunii/DVM_project/wiki/BI)
-> * [UI / UX](https://github.com/daahunii/DVM_project/wiki/UI-UX)
+> * [BI](https://github.com/Project-jung/DVM_project/wiki/BI)
+> * [UI / UX](https://github.com/Project-jung/DVM_project/wiki/UI-UX)
 
 3. 협업
 
-> * [개발일지](https://github.com/daahunii/DVM_project/wiki/개발일지)
-> * [프로젝트 참여자](https://github.com/daahunii/DVM_project/wiki/프로젝트-참여자)
+> * [개발일지](https://github.com/Project-jung/DVM_project/wiki/개발일지)
+> * [프로젝트 참여자](https://github.com/Project-jung/DVM_project/wiki/프로젝트-참여자)
 
 4. 회고
 
